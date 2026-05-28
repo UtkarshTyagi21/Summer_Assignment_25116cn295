@@ -8,7 +8,6 @@ int main()
     while (i<=10)
     {
         printf("%d X %d = %d\n", n,i,n*i);
-
         i=i+1;
     }
 
