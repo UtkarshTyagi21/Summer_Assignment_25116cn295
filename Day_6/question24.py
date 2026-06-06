@@ -8,7 +8,7 @@ def power_optimized(x, n):
     current_product = x
 
     while n > 0:
-        if n % 2 == 1: #If n is odd, multiply the result bu current product
+        if n % 2 == 1: #If n is odd, multiply the result by current product
             result *= current_product
         current_product *= current_product #square the current product and halve the exponent
         n //= 2
