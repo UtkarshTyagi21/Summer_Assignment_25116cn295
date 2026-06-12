@@ -8,4 +8,8 @@ def factorial(n):
 
     return factorial
 for i in range(10):
+<<<<<<< HEAD
     print(factorial(i))
+=======
+    print(factorial(i))
+>>>>>>> a2dfa001c67af571cc85a93e8c39f707a03fd282
