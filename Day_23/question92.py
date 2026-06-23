@@ -16,4 +16,4 @@ def find_max_char_dict(text):
 #Test the function
 input_str = "Apple"
 char, count = find_max_char_dict(input_str)
-print("The maximum occuring charcter is ", char, "with a count of", count , ".")
+print("The maximum occuring character is ", char, "with a count of", count , ".")
