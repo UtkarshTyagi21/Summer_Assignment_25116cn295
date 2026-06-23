@@ -1,4 +1,4 @@
-#WAP to check symmetric matrix.d
+#WAP to check symmetric matrix.
 def is_symmetric(matrix):
     if not matrix or not matrix[0]: #Check if the matrix is empty
         return False
