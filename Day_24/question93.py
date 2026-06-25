@@ -5,7 +5,7 @@ def is_rotation(str1, str2):
     
     temp = str1 + str1 #Concatenate str1 with itself
 
-    return str2 in temp #Check if str2 is a sunstring of the concatenated string
+    return str2 in temp #Check if str2 is a substring of the concatenated string
 
 #---Test Cases---
 string1 = "ABCD"
