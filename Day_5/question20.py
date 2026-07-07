@@ -1,4 +1,4 @@
-#WAp to find largest prime factor.
+#WAP to find largest prime factor.
 import math
 n = int(input("Enter a number: "))
 max_prime = -1
